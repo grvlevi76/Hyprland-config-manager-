@@ -37,7 +37,7 @@ Hyprland-config-manager/
 
 ⚙️ How to Use
 
-1. 🔧 Make sure Hyprland is installed and configured.
+1. 🔧 Make sure arch linux and  Hyprland is installed and configured.
 
 
 2. 👇 Run the executable (after compiling):
